@@ -1,2 +1,2 @@
 # World_Weather_Analysis
-API
+PlanMyTrip is a top travel technology company that specializes in internet-related services in a hotel and loging industry. Jack, head of analysis for the user interface team, asked to help him collect and present data for customers via the search page which they will then filter based on their preferred travel criteris in order to find their ideal hotel anywhere in a world.
