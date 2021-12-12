@@ -16,5 +16,6 @@ Used input statements to retrieve customer weather preferences in [Vacation_Sear
 ## Vacation Itinerary:
 Used the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
 * ![WeatherPy_travel_map](https://user-images.githubusercontent.com/42978221/145732109-25118ebb-48f0-4881-b2cd-4e51d1ba498a.png)
+
 Then, created a marker layer map with a pop-up marker for each city on the itinerary.
 * ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/42978221/145732101-dceec7e4-1e26-44ba-b4c2-3965b54511fe.png)
