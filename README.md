@@ -9,6 +9,9 @@ Task: Collect and analyze weather data across cities worldwide.
 Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
 Method: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
 
+## Weather_Database:
+
+## Vacation_Search:
 
 ## Vacation Itinerary:
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
