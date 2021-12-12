@@ -7,7 +7,7 @@ Collect and analyze weather data across cities worldwide.
 PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences. Create an itinerary with the chosen 4 destinations to visit and provide the driving route including hotels in those locations.
 
 ## Weather_Database:
-Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data you gathered in this module, use your API skills to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data.
+Generated a set of 687 random latitudes and longitudes in [Weather_Database.ipynb](https://github.com/Cryptotwister/World_Weather_Analysis/blob/main/Weather_Database/Weather_Database.ipynb), retrieved the nearest city, and performed an API call with the OpenWeatherMap. In addition to the city weather data used API to retrieve the current weather description for each city. Then, created a new DataFrame containing the updated weather data.
 
 ## Vacation_Search:
 Use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
